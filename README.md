@@ -14,7 +14,7 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ```
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/dashboard)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/K7RXq3?referralCode=koOK_D)
 
 [![Deploy on Koyeb](https://telegra.ph/file/48228bbb836479f7a2863.png)](https://app.koyeb.com/deploy?type=git&repository=&branch=name&name=servicename)
 
